@@ -11,23 +11,18 @@ import streamlit as st
 import assemblyai as aai
 from dotenv import load_dotenv
 
-# Load environment variables and setup
 load_dotenv()
 
-# Supported file formats
 SUPPORTED_FORMATS = ["mp3", "mp4", "wav", "m4a"]
 
 def main():
-    # App UI
     st.title("🐦 Audio-to-Tweet Generator")
     st.write("Upload audio/video to generate tweet suggestions using AI")
     
-    # File uploader
     uploaded_file = st.file_uploader("Choose an audio/video file", type=SUPPORTED_FORMATS)
     
     if uploaded_file and st.button("Generate Tweets"):
         with st.spinner("Processing... This may take a minute or two."):
-            # Save uploaded file to temp file
             with tempfile.NamedTemporaryFile(delete=False, suffix=f".{uploaded_file.name.split('.')[-1]}") as tmp_file:
                 tmp_file.write(uploaded_file.getvalue())
                 tmp_file_path = tmp_file.name
@@ -56,7 +51,6 @@ def main():
                 st.subheader("📱 Tweet Suggestions")
                 st.write(lemur_response.response)
                 
-                # Add a download button for the text
                 st.download_button(
                     label="Download Tweets",
                     data=lemur_response.response,
@@ -68,7 +62,6 @@ def main():
                 st.error(f"An error occurred: {str(e)}")
                 st.info("Make sure your AssemblyAI API key is set correctly and that you've uploaded a valid audio file.")
             finally:
-                # Clean up temp file
                 if os.path.exists(tmp_file_path):
                     os.remove(tmp_file_path)
 

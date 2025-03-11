@@ -18,13 +18,10 @@ from dotenv import load_dotenv
 import time
 from rich.progress import Progress
 
-# Initialize rich console for beautiful CLI output
 console = Console()
 
-# Load environment variables
 load_dotenv()
 
-# Set up AssemblyAI API
 aai_key = os.getenv("ASSEMBLYAI_API_KEY")
 if not aai_key:
     console.print("[bold red]Error:[/] ASSEMBLYAI_API_KEY not found in environment variables.")
@@ -42,7 +39,6 @@ def record_audio(duration=30, sample_rate=44100):
     audio_format = pyaudio.paInt16
     channels = 1
     
-    # Initialize PyAudio
     audio = pyaudio.PyAudio()
     
     # Open stream
@@ -59,9 +55,8 @@ def record_audio(duration=30, sample_rate=44100):
     for i in range(0, int(sample_rate / chunk * duration)):
         data = stream.read(chunk)
         frames.append(data)
-        # Update progress every second
         elapsed = time.time() - start_time
-        if i % (sample_rate // chunk) == 0:  # Roughly every second
+        if i % (sample_rate // chunk) == 0:  
             percent = min(100, int((elapsed / duration) * 100))
             remaining = max(0, duration - elapsed)
             console.print(f"Recording... [magenta]{percent}%[/] {int(remaining//60):02d}:{int(remaining%60):02d}", end="\r")
@@ -73,7 +68,6 @@ def record_audio(duration=30, sample_rate=44100):
     
     # Create temp file for audio
     with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp_file:
-        # Write audio data to WAV file
         wf = wave.open(tmp_file.name, 'wb')
         wf.setnchannels(channels)
         wf.setsampwidth(audio.get_sample_size(audio_format))
@@ -104,7 +98,6 @@ def generate_review(audio_file, movie_title):
         Format with proper paragraphs and a star rating at the end.
         """
         
-        # Use default model (or specify a valid model if needed)
         lemur_response = transcript.lemur.task(
             review_prompt.strip(),
             final_model=aai.LemurModel.claude3_opus
@@ -145,7 +138,6 @@ def main():
     except Exception as e:
         console.print(f"[bold red]Error:[/] {str(e)}")
     finally:
-        # Clean up temp file
         if 'audio_file' in locals() and os.path.exists(audio_file):
             os.remove(audio_file)
 
