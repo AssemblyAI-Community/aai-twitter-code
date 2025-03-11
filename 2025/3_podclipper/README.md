@@ -4,6 +4,8 @@ A Streamlit web app that automatically finds the most engaging segments from lon
 
 ![PodClipper](app.png)
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## 🚀 What it does
 
 PodClipper helps you promote your podcasts on social media by:

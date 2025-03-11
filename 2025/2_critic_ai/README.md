@@ -4,6 +4,8 @@ A Python CLI tool that transforms your casual spoken movie thoughts into profess
 
 ![CriticAI Demo](app.png)
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## 🚀 What it does
 
 Ever watched a movie and wanted to sound like Roger Ebert when sharing your thoughts? CriticAI:
@@ -25,7 +27,7 @@ Ever watched a movie and wanted to sound like Roger Ebert when sharing your thou
    ASSEMBLYAI_API_KEY=your_api_key_here
    ```
 
-4. **Note on PyAudio Installation:**
+3. **Note on PyAudio Installation:**
    
    PyAudio may require additional system dependencies before installing with pip:
    

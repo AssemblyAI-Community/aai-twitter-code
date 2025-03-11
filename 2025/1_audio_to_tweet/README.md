@@ -4,6 +4,8 @@ A Streamlit app that uses AssemblyAI to automatically generate tweet-sized summa
 
 ![App Screenshot](app.png)
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## 🚀 Features
 
 - Upload any audio or video file
