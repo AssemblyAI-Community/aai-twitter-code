@@ -1,0 +1,5 @@
+assemblyai
+python-dotenv
+pyaudio
+rich
+wave
