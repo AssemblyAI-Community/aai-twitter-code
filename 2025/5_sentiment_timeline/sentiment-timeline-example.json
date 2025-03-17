@@ -1,0 +1,1574 @@
+[
+  {
+    "time": 1,
+    "text": "From ABC News, World News this Week.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 11,
+    "text": "I'm Chuck Seberson in New York.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 13,
+    "text": "Coming up, the Supreme Court strikes that down.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 16,
+    "text": "Student debt relief and affirmative action.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 18,
+    "text": "In dissent, Justice Sotomayor said the decision ro...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 23,
+    "text": "Bad weather snarls, air travel, leaving people str...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 28,
+    "text": "My wife, who hasn't slept in like 36 hours, former...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 35,
+    "text": "They presented me this, a black teen shot by a whi...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 39,
+    "text": "Speaking exclusively to ABC News.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 41,
+    "text": "I'm thinking there's no way he's actually gonna sh...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 54,
+    "text": "This episode is brought to you by booking.com book...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 59,
+    "text": "Podcasts are a kind of escapism, but when you need...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 72,
+    "text": "So whatever type of trip you want to take, lying o...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 80,
+    "text": "Booking.com booking yeah.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 85,
+    "text": "The Supreme Court wrapping up its term with a week...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 90,
+    "text": "The final one, the biggest for millions of America...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 97,
+    "text": "But the court cutting that plan down.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 99,
+    "text": "ABC News senior national correspondent Terry Moran...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 102,
+    "text": "43 million people were eligible for up to $10,000 ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 107,
+    "text": "The Supreme Court strikes that down because it say...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 118,
+    "text": "What the administration had tried to do was waive ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 125,
+    "text": "And what the Supreme Court says here, that that is...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 130,
+    "text": "Only Congress can waive that much debt, $400 billi...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 143,
+    "text": "Chief Justice John Roberts writing for the six con...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 157,
+    "text": "It does not is what the court says.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 160,
+    "text": "President Biden speaking just hours after the ruli...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 162,
+    "text": "Today's decision has closed one path.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 164,
+    "text": "Now we're going to pursue another.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 166,
+    "text": "I'm never going to stop fighting for you.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 169,
+    "text": "We'll use every tool at our disposal to get you th...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 174,
+    "text": "Saying his administration is now working on a new ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 178,
+    "text": "But warning it will the high court also handing do...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 190,
+    "text": "In a 6 to 3 ruling, the court says she doesn't hav...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 193,
+    "text": "ABC's Devin Dwyer says this ruling goes far beyond...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 197,
+    "text": "The First Amendment prohibits the government from ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 203,
+    "text": "At the same time, civil rights laws in this countr...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 208,
+    "text": "But what the court said today is that businesses i...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 227,
+    "text": "Neil Gorsuch said that the government cannot force...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 235,
+    "text": "Justice Sonia Sotomayor, who was in the dissent wi...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 249,
+    "text": "She says this decision threatens to Balkanize the ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 264,
+    "text": "So a striking and sweeping opinion.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 266,
+    "text": "Justice Neil Gorsuch didn't articulate the limitin...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 275,
+    "text": "ABC's Devin Dwyer earlier this week the Supreme Co...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 282,
+    "text": "In a 6 to 3 opinion, the US Supreme Court said adm...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 293,
+    "text": "The decision said the court has never permitted ad...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 297,
+    "text": "Students for Fair Admissions, which brought the ca...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 305,
+    "text": "In dissent, Justice Sotomayor said the decision ro...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 312,
+    "text": "It's ABC's Aaron Katerski.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 314,
+    "text": "The decision, though, does leave open the door for...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 319,
+    "text": "But ABC's Jonathan Karl points out, you can Imagin...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 329,
+    "text": "Some obviously would like to do that.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 331,
+    "text": "Some may want to write about something else.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 332,
+    "text": "But this says if race is to be a factor in the adm...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 342,
+    "text": "Bumi Omissore, an African American student at Duke...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 351,
+    "text": "Now that students are forced to talk about racial ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 366,
+    "text": "But Alex Shea argues affirmative action had been w...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 371,
+    "text": "I'm going to Brown next year and I'm happy that th...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 377,
+    "text": "But it does make me feel a little bit uncomfortabl...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 385,
+    "text": "Strong storms earlier this week, especially in the...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 393,
+    "text": "This man stuck in San Francisco.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 395,
+    "text": "I've got my wife who hasn't slept in like 36 hours...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 398,
+    "text": "I've got two kids.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 399,
+    "text": "They are just absolutely spent.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 401,
+    "text": "And Pinal Ishvar caught up in the cancellations.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 404,
+    "text": "We were told to go to customer service.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 405,
+    "text": "There's a seven hour wait in the customer service ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 408,
+    "text": "People had been standing there for days.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 409,
+    "text": "ABC News transportation correspondent Gio Benitez.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 412,
+    "text": "It comes as no surprise that travelers are on edge...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 417,
+    "text": "More than 7,000 flights canceled since Saturday.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 420,
+    "text": "Those bags seen piling up at airports, some people...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 425,
+    "text": "United Airlines has been hit the hardest even as o...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 429,
+    "text": "Secretary of Transportation Pete Buttigieg tweetin...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 437,
+    "text": "Even on Thursday with little severe weather.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 440,
+    "text": "United canceled more than 400 flights.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 442,
+    "text": "The airline now telling ABC News it is seeing impr...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 451,
+    "text": "The weather turning deadly in Texas with a week of...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 458,
+    "text": "ABC's Jim Ryan's there.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 463,
+    "text": "For the 30 million people who live in Texas, stayi...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 468,
+    "text": "The operators of the state's power grid are pleadi...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 476,
+    "text": "Advice from the pros.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 477,
+    "text": "If you have ceiling fans in the house, run those.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 479,
+    "text": "It's going to draw a lot less electricity than the...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 482,
+    "text": "Vic Fredland runs an H Vac company in Austin.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 485,
+    "text": "For many elderly and homebound, relief from the he...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 490,
+    "text": "We're back.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 491,
+    "text": "We're back.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 491,
+    "text": "Come in.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 492,
+    "text": "Meals on Wheels volunteer Amy Slaughter comes bear...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 496,
+    "text": "Yeah, you can just tell that it's draining on some...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 499,
+    "text": "It's really great to be able to bring other resour...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 504,
+    "text": "Now the heat dome that was parked over Texas has m...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 508,
+    "text": "People living in New Orleans or any city have a di...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 514,
+    "text": "You have a lot of concrete, so it heats up quicker...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 520,
+    "text": "Meteorologist Benjamin Schott is with the National...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 530,
+    "text": "Damon Crutchfield is there drinking gallons of wat...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 534,
+    "text": "It feels like you're walking through an oven, it i...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 536,
+    "text": "Jim Ryan, ABC News in Dallas, Fort Worth.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 539,
+    "text": "Along with heat, even more smoke from those near n...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 544,
+    "text": "ABC's Alex Perez in Chicago getting some of the wo...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 547,
+    "text": "That hazy smoke has been impacting a huge chunk of...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 557,
+    "text": "The smoke from those ongoing Canadian wildfires ha...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 565,
+    "text": "One of the pieces of evidence at the heart of the ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 571,
+    "text": "An incident where he was apparently waving around ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 577,
+    "text": "And now, says ABC News Chief justice correspondent...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 590,
+    "text": "You know, he said he wanted to attack Iran and wha...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 599,
+    "text": "Audio obtained by ABC News involves a July 2021 co...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 611,
+    "text": "Here's Trump discussing a proposal from the chairm...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 617,
+    "text": "Well, with Milley let me see that.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 619,
+    "text": "I'll show you an example.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 620,
+    "text": "He said that I wanted to attack Iran.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 626,
+    "text": "Isn't it amazing?",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 628,
+    "text": "I have a big pile of papers.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 629,
+    "text": "This thing just came up.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 630,
+    "text": "Look, this was him.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 633,
+    "text": "They presented me this.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 635,
+    "text": "This is off the record, but they presented me this...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 638,
+    "text": "This was him.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 639,
+    "text": "This was the Defense Department and him.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 642,
+    "text": "Wow.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 643,
+    "text": "The audio, which is being publicly heard for the f...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 659,
+    "text": "I think we can probably.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 661,
+    "text": "I don't know, we'll have to see.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 663,
+    "text": "Yeah, we'll have to try to deglass.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 666,
+    "text": "See as president, I could have deglassed.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 668,
+    "text": "Now I can't, you know.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 669,
+    "text": "But this is.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 672,
+    "text": "You can hear.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 672,
+    "text": "Right?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 673,
+    "text": "After Trump's apparent acknowledgment that the doc...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 689,
+    "text": "This totally wins my case, you know, except it is ...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 695,
+    "text": "This is secret information.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 697,
+    "text": "The audio was quoted repeatedly in the 49 page 37 ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 708,
+    "text": "ABC's Pierre Thomas.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 709,
+    "text": "Mr. Trump later said he was referring to news clip...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 722,
+    "text": "It involved one of the key pieces of the war on Uk...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 729,
+    "text": "ABC News chief foreign correspondent Ian Panel.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 732,
+    "text": "It all began late Friday evening when Prigozhin Su...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 740,
+    "text": "By Saturday morning, Prigozhin says his fighters h...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 747,
+    "text": "Attacked by Russian aircraft, Wagner troops report...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 753,
+    "text": "But then, says ABC's Patrick Revil in Ukraine, wit...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 776,
+    "text": "And so he has ordered his forces back to base.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 778,
+    "text": "And I think at that point everyone was just sort o...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 781,
+    "text": "And ABC News chief global affairs correspondent Ma...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 791,
+    "text": "What the senior official told me is that they turn...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 801,
+    "text": "Now, whether that was the plan all along, we don't...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 804,
+    "text": "And that's one of the things.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 805,
+    "text": "Putin is investigating.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 807,
+    "text": "President Biden this week looking to burnish his e...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 813,
+    "text": "ABC News chief White House correspondent Mary Bruc...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 823,
+    "text": "The president is arguing that his plan is turning ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 828,
+    "text": "And 13 million jobs created inflation in May dropp...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 835,
+    "text": "And the Commerce Department says the U.S. economy ...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 841,
+    "text": "And Apple finishing the week as the first publicly...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 859,
+    "text": "The Coast Guard announcing that investigators have...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 867,
+    "text": "It comes as cranes hoisted large pieces of the Tit...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 872,
+    "text": "What appears to be a panel from the exterior of th...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 878,
+    "text": "ABC Stephanie Ramos, the man who opened fire in an...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 886,
+    "text": "Arraignment and sentence just disturbed in one day...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 889,
+    "text": "Colorado Judge Michael McHenry sentencing 23 year ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 894,
+    "text": "This after Aldrich pled guilty to five counts of f...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 902,
+    "text": "I believe that there's a high probability of being...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 911,
+    "text": "Aldrich hearing heart wrenching impact statements ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 915,
+    "text": "Dave Packer, ABC News a Florida jury finding a for...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 931,
+    "text": "Peterson after the verdict.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 932,
+    "text": "We've got our life back after four and a half year...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 935,
+    "text": "I just watched him say he got his life back.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 938,
+    "text": "Back.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 939,
+    "text": "Well, bravo for getting your life back.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 941,
+    "text": "I don't have my son back.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 943,
+    "text": "Linda Bagel, Schulman's son was a teacher at the s...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 947,
+    "text": "Several days and nights of violent protests across...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 955,
+    "text": "ABC's Tom Soufi Burridge just outside Paris.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 958,
+    "text": "Prosecutors have now put the officer who allegedly...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 964,
+    "text": "President Macron calling the shooting of the teena...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 967,
+    "text": "Train derailments this week.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 968,
+    "text": "One fouling the Yellowstone river in Montana, a fr...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 977,
+    "text": "ABC's Matt Gutman says some were carrying molten s...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 981,
+    "text": "The rail Link says that they're investigating sigh...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 988,
+    "text": "This entire beach area is littered with these gian...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 994,
+    "text": "North of Los Angeles, an Amtrak train on the way t...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1000,
+    "text": "Pat Dowd was on board.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1001,
+    "text": "You could feel it.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1002,
+    "text": "Train go off, the tracks, start tilting.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1004,
+    "text": "More than a dozen people hurt.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1006,
+    "text": "Five cases of malaria confirmed in the United Stat...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1009,
+    "text": "Usually it's from people bitten by mosquitoes over...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1018,
+    "text": "It's not often seen in the United States and we ha...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1024,
+    "text": "Four of the patients catching it from mosquitoes i...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1029,
+    "text": "And on the baseball diamond this week, something e...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1036,
+    "text": "The call on WFAN after Hermann and the Yankees bea...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1044,
+    "text": "Coming up.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1045,
+    "text": "I was bleeding from my head.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1047,
+    "text": "I was like, how?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1048,
+    "text": "How is this possible?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1049,
+    "text": "Like I've been shot in the head.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1051,
+    "text": "A Kansas City teen tells the story of being shot w...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1057,
+    "text": "When World News THIS Week continues.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1061,
+    "text": "For the first time, a black 17 year old from Kansa...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1070,
+    "text": "Ralph Yarl who was trying to pick up his brothers,...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1075,
+    "text": "When you go back to April 13th, tell me what happe...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1081,
+    "text": "Well, I go into the driveway, I walk up the steps,...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1087,
+    "text": "I see three different cameras.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1090,
+    "text": "Like, one looking to the driveway, one on the porc...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1093,
+    "text": "As far as I know, I didn't know their family at al...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1095,
+    "text": "Like, I'd never even seen their friends or their p...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1099,
+    "text": "So maybe this is their house.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1101,
+    "text": "Ralph mistakenly going to Northeast 1 15th street ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1110,
+    "text": "I actually wait a long time.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1113,
+    "text": "I'm just on the porch.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1115,
+    "text": "So then I hear the door open.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1117,
+    "text": "I see this old man and I'm assuming, oh, this is.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1121,
+    "text": "This must be like their grandpa.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1123,
+    "text": "And then he pulls out his gun and I'm like, whoa.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1127,
+    "text": "So I like, back up.",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1128,
+    "text": "He points it at me, so I kind of like, brace and I...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1134,
+    "text": "I'm thinking, there's no way he's actually gonna s...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1137,
+    "text": "The door is even open.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1138,
+    "text": "He's gonna shoot through his glass door, and glass...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1141,
+    "text": "Then it happened.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1143,
+    "text": "And then I'm on the ground.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1145,
+    "text": "I fall on the glass, the shattered gusts.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1148,
+    "text": "And then before I know it, I'm running away shouti...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1153,
+    "text": "Ralph says he ran to multiple homes until someone ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1158,
+    "text": "I was bleeding from my head.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1159,
+    "text": "I was like, how is this possible?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1162,
+    "text": "Like, had been shot in the head.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1164,
+    "text": "Had you ever seen that man before?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1166,
+    "text": "Never.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1167,
+    "text": "Were there any words that were exchanged before he...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1172,
+    "text": "He only said five words.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1177,
+    "text": "Don't come here ever again.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1179,
+    "text": "His mom, Cleo, concerned when her son never return...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1183,
+    "text": "I was worried already that maybe he had gotten a f...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1188,
+    "text": "And then we got a call from a strange number and i...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1194,
+    "text": "What were the doctors initially telling you, Cleo?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1196,
+    "text": "Oh, they didn't have to tell me anything.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1198,
+    "text": "I'm a health care worker.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1199,
+    "text": "He was partially alert when we got there, but it w...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1205,
+    "text": "It was traumatizing.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1207,
+    "text": "Shot twice, once in the head and ARM by 84 year ol...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1211,
+    "text": "In the aftermath, protests sweeping the streets of...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1221,
+    "text": "The shooter remains out on bond, telling investiga...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1230,
+    "text": "Lester, who has entered a not guilty plea, shootin...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1239,
+    "text": "Lester's attorney telling GMA in part that the cou...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1247,
+    "text": "Shut kick down the Yarl family Lawyer Lee Merritt ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1255,
+    "text": "What are your concerns of the legal process going ...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1259,
+    "text": "Unfortunately, race is a major factor in who gets ...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1265,
+    "text": "And in cases where there's a white man and a black...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1274,
+    "text": "And that is concern for me here.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1276,
+    "text": "Miraculously, ten weeks later, Ralph's made a full...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1285,
+    "text": "There are a lot of things that are going on inside...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1290,
+    "text": "I've been having headaches, trouble with sleep, an...",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1304,
+    "text": "You're looking at a kid that took the SAT when he ...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1316,
+    "text": "But there is a lot that has been taken from him.",
+    "sentiment": "NEGATIVE",
+    "score": -1
+  },
+  {
+    "time": 1320,
+    "text": "What do you want people to know about you?",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1323,
+    "text": "Ralph I'm just a kid, not larger than life.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1326,
+    "text": "Because this happened to me, I'm just gonna keep d...",
+    "sentiment": "POSITIVE",
+    "score": 1
+  },
+  {
+    "time": 1338,
+    "text": "Ralph Yarl speaking with ABC's Robin Roberts.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1340,
+    "text": "And those are the people and events that made worl...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1345,
+    "text": "World News this Week was written and produced by R...",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  },
+  {
+    "time": 1349,
+    "text": "I'm Chuck Sivertson, ABC News, New York.",
+    "sentiment": "NEUTRAL",
+    "score": 0
+  }
+]

@@ -1,0 +1,25 @@
+{
+    "name": "sentiment-timeline",
+    "version": "0.0.0",
+    "description": "Visualize the emotional journey throughout any audio content using AssemblyAI",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [
+      "sentiment",
+      "analysis",
+      "assemblyai",
+      "audio"
+    ],
+    "author": "AssemblyAI",
+    "license": "MIT",
+    "dependencies": {
+      "assemblyai": "^4.0.0",
+      "dotenv": "^16.3.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    }
+  }
