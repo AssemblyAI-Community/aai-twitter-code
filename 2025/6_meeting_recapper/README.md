@@ -6,6 +6,8 @@ A web application that uses the AssemblyAI API to analyze meeting recordings and
 
 ![Upload page](upload.png)
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## Features
 
 - **Upload Meeting Recordings**: Upload audio or video files of meetings
@@ -24,7 +26,7 @@ A web application that uses the AssemblyAI API to analyze meeting recordings and
 
 ## Running the program
 
-You need Node.js installed and an AssemblyAI API key, then:
+You need Node.js installed and an [AssemblyAI API key](https://www.assemblyai.com/dashboard/signup):, then:
 
 1. Install dependencies:
    ```

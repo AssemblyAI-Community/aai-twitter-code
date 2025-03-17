@@ -6,9 +6,11 @@
 
 Sentiment Timeline is a simple Node.js tool that uses AssemblyAI to analyze the emotional tone throughout podcasts, speeches, interviews, or any audio content. It creates a timeline of sentiment changes over time for audio and video files in the terminal and saves it to a JSON file.
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## Installation
 
-You'll need to have Node.js installed and an AssemblyAI API key, then:
+You'll need to have Node.js installed and an [AssemblyAI API key](https://www.assemblyai.com/dashboard/signup), then:
 
 1. Install dependencies:
    ```

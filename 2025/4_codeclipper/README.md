@@ -6,6 +6,8 @@
 
 CodeClipper is a Streamlit web application that uses AI to analyze coding tutorials and extract the most educational segments, it easy to clip and share your coding tutorials. The screenshot above shows the app used to clip our tutorial on [building an AI agent with LiveKit and Python](https://www.youtube.com/watch?v=A400nCCZlK4)
 
+Follow [AssemblyAI's Twitter account](https://x.com/AssemblyAI) for more cool projects like this
+
 ## Features
 
 - **AI-Powered Code Concept Extraction**: Identifies the most valuable educational segments from coding tutorials
@@ -20,7 +22,7 @@ CodeClipper is a Streamlit web application that uses AI to analyze coding tutori
    pip install -r requirements.txt
    ```
 
-3. Create a `.env` file in the project directory and add your AssemblyAI API key:
+3. Create a `.env` file in the project directory and add your [AssemblyAI API key](https://www.assemblyai.com/dashboard/signup):
    ```
    ASSEMBLYAI_API_KEY=your_api_key_here
    ```
