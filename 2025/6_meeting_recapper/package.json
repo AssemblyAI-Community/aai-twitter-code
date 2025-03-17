@@ -1,0 +1,34 @@
+{
+    "name": "meeting-visualizer",
+    "version": "0.0.0",
+    "description": "A meeting analyzer and visualizer using AssemblyAI API",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "dependencies": {
+      "assemblyai": "^3.0.0",
+      "cors": "^2.8.5",
+      "dotenv": "^16.3.1",
+      "express": "^4.18.2",
+      "express-fileupload": "^1.4.0",
+      "sqlite3": "^5.1.6"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.1"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "keywords": [
+      "meeting",
+      "transcription",
+      "assemblyai",
+      "visualizer",
+      "d3js"
+    ],
+    "author": "AssemblyAI",
+    "license": "MIT"
+  }
